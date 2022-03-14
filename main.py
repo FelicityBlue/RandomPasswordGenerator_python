@@ -2,7 +2,7 @@ import pandas as pd
 import random as rd
 
 # read csv
-df = pd.read_csv(r'C:\Users\Felicity\PycharmProjects\Password_Generator\password_codes.csv')
+df = pd.read_csv(r'password_codes.csv')
 
 # Generate a list
 characters = []
